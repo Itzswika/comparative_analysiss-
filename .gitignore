@@ -1,0 +1,11 @@
+
+#ignore cache
+__pycache__
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+ML-EdgeIIoT-dataset.csv
+kddcup.data_10_percent/kddcup.data_10_percent.csv
+venv/
+*.csv
+*.pkl
+*.gz
